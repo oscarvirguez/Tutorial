@@ -1,0 +1,36 @@
+---Con costos de construcción---
+Se deben construir tiendas en: B
+Con un costo de: $ 39.0
+Tiempo del algoritmo: 0.000875851159822secs.
+
+
+---Sin costos de construcción---
+Se deben construir tiendas en: A, C, B
+Con una distancia promedio de: 33.0
+Tiempo del algoritmo: 0.00109511024584secs.
+
+
+---Con costos de construcción---
+Se deben construir tiendas en: B
+Con un costo de: $ 39.0
+Tiempo del algoritmo: 0.000879801773984secs.
+
+
+---Sin costos de construcción---
+Se deben construir tiendas en: A, C
+Con una distancia promedio de: 31.0
+Tiempo del algoritmo: 0.000767999393187secs.
+
+
+---Con costos de construcción---
+Se deben construir tiendas en: B
+Con un costo de: $ 39.0
+Tiempo del algoritmo: 0.000537283526097secs.
+
+
+---Sin costos de construcción---
+Se deben construir tiendas en: A
+Con una distancia promedio de: 23.0
+Tiempo del algoritmo: 0.00049066627898secs.
+
+
